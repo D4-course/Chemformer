@@ -1,6 +1,7 @@
 
 # Team 13 - 2019102016 and 2019102021
 
+The Dataset has been uploaded to the following link due to space restrictions on Github: https://az.app.box.com/s/7eci3nd9vy0xplqniitpk02rbg9q2zcq
 ## MolBART - aka Chemformer
 
 The MolBART project aims to pre-train a BART transformer language model [[1]](#1) on molecular SMILES strings [[2]](#2) by optimising a de-noising objective. We hypothesised that pre-training will lead to improved generalisation, performance, training speed and validity on downstream fine-tuned tasks. We tested the pre-trained model on downstream tasks such as reaction prediction, retrosynthetic prediction, molecular optimisation and molecular property prediction.
